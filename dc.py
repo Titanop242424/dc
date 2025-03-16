@@ -21,7 +21,7 @@ waiting_users = set()  # Track users waiting for an attack to finish
 ADMIN_ID = 801688645567381546  # Replace with your admin's Discord ID
 
 # Define default values
-DEFAULT_PACKET_SIZE = 512
+DEFAULT_PACKET_SIZE = 12
 DEFAULT_THREADS = 750
 MAX_ATTACK_TIME = 240  # in seconds
 
