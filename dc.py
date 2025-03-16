@@ -462,4 +462,4 @@ async def dispose_unredeemed_keys():
         save_generated_keys_to_file()
         await asyncio.sleep(3600)  # Check every hour
 
-bot.run('MTI0Mjc2MDY2OTY2NTk1NTkyMQ.GzftYc.K8zlUHNcO6cND-QG9yO9PZE1Onm44KajYtaHfs')
+bot.run('MTI0Mjc2MDY2OTY2NTk1NTkyMQ.GD2BxJ.EoAN37MHmwtIOHu_dt1sRXtiHhxdGizPHkuWS4')
