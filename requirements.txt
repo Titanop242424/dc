@@ -3,5 +3,6 @@ pymongo
 aiohttp
 psutil
 flask 
-aiogram pyTelegramBotAPI 
+aiogram
+pyTelegramBotAPI
 python-telegram-bot
